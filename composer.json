@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/dotenv": "^6.0",
+        "psr/log": "^3.0"
+    }
+}
